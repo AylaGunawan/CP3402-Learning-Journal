@@ -1,6 +1,8 @@
 # CP3402 Learning Journal 01
+
 ## Week
 1
+
 ## Learning Activities
 
 Learning activities completed this week include revising web design and development in HTML, CSS, JavaScript and PHP. By doing the CP1406 test review, I found out what areas I needed to revisit in my own time. Once I was confident in my skills again, I designed and constructed a website about an IT startup for Assignment 1 before publishing it on SiteGround for the practical.

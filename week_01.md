@@ -13,11 +13,11 @@ Resources used for learning this week include my own work and online courses. I 
 
 ## Estimated Hours
 
-The estimated hours of learning during the week is at least eight (8) hours: one (1) for the CP1406 review, one (1) for research/revision, and six (6) for the website creation and hosting. However, the website felt like it took longer as I spent lots of time fiddling with the content to make it look believable and professional.
+The estimated time spent learning during the week is at least eight (8) hours: one (1) for the CP1406 review, one (1) for research/revision, and six (6) for the website creation and hosting. However, the website felt like it took longer as I spent lots of time fiddling with the content to make it look believable and professional.
 
 ## Content Insights
 
-From the activities and resources above, insights were gathered about potential web content-making tools and the theory of web design. With a MacBook, I do not have access to markup-friendly text software. But after some testing, I discovered that PyCharm also provides support and auto-suggestions for HTML and CSS, so I took advantage of them. Furthermore, I found it easier to recall general principles of web design because they are founded in the senses of goal-oriented logic and artistic appeal. Also, I experimented a little bit with Bootstrap and GitHub Pages--although I opted to build a website from scratch, there is value in being able to quickly and consistently making and hosting web pages with these platforms.
+From the activities and resources above, insights that were gathered include potential web content-making tools and the theory of web design. With a MacBook, I do not have access to markup-friendly text software. But after some testing, I discovered that PyCharm also provides support and auto-suggestions for HTML and CSS, so I took advantage of them. Furthermore, I found it easier to recall general principles of web design because they are founded in the senses of goal-oriented logic and artistic appeal. Also, I experimented a little bit with Bootstrap and GitHub Pages--although I opted to build a website from scratch, there is value in being able to quickly and consistently making and hosting web pages with these platforms.
 
 ## Career, Employability & Learning Insights
 

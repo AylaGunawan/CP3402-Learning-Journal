@@ -1,4 +1,4 @@
-# CP3402 Learning Journal 01
+# CP3402 Learning Journal 02
 
 ## Week
 2 (13/03/2023)

@@ -10,14 +10,13 @@ Having no prior experience with CMSs, I focused on learning the basics of Joomla
 ## Resources & Links
 
 * [Joomla! 4 Essential Training](https://www.linkedin.com/learning/joomla-4-essential-training): A LinkedIn course that teaches the essentials of Joomla. Was not able to finish the entire course (only got up to step 8).
-* [How to Build a Website With Joomla 4 | Joomla 4 Beginners Tutorial | Localhost](https://www.youtube.com/watch?v=h5VZwTLdgdM): A simplified tutorial of Joomla I used to inform my experimentation.
-* [How to Create Custom CSS with Cassiopeia in Joomla 4](https://ltheme.com/create-custom-css-with-cassiopeia/): A guide on how to implement custom CSS.
+* [How to Build a Website With Joomla 4 | Joomla 4 Beginners Tutorial | Localhost](https://www.youtube.com/watch?v=h5VZwTLdgdM): A simplified video tutorial of Joomla I used to inform my experimentation.
+* [How to Create Custom CSS with Cassiopeia in Joomla 4](https://ltheme.com/create-custom-css-with-cassiopeia/): A website guide on how to implement custom CSS.
 
 ## Estimated Hours
 
 * Two (2) hours on Joomla learning
-* Four (4) hours on Joomla practice/experimentation
-* Two (2) hours on Vagrant learning
+* Four (4) hours on Joomla experimentation
 
 ## Content Insights
 

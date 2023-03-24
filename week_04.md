@@ -12,16 +12,17 @@ I learnt the basics of website deployment. I read the lecture slides to understa
 * [WordPress 5 Essential Training](https://www.linkedin.com/learning/wordpress-5-essential-training): A LinkedIn course that teaches the essentials of WordPress, including Local by Flywheel.
 * [WP Migrate - Full-Site Exports](https://deliciousbrains.com/wp-migrate-db-pro/doc/full-site-exports/): Documentation on the plugin WP Migrate Lite for exporting sites to local environments.
 * [How To set up WordPress locally on your Mac with Local by Flywheel](https://www.youtube.com/watch?v=YwF8D0ypDB0): A WP video tutorial I used for clarification on Local installation and setup.
+* [Getting started with Vagrant & VVV for local development](https://webdevstudios.com/2015/01/14/getting-started-vagrant-vvv-local-development/): An introductory blog post about virtual machines and VVV.
 
 
 ## Estimated Hours
 
-* Two (2) hours on local development learning
+* Two (2) hours on deployment learning and research
 * Two (2) hours on Local by Flywheel experimentation
 
 ## Content Insights
 
-Production, local development and staging go hand-in-hand in developer operations. Local development is taking a website offline to perform safe testing and changes. Staging is pushing it to a "middle-man" scenario for a client can interact with. I found it easy to wrap my head around the pushing and pulling of web content because it shares similarities with git. However, I now know in hindsight that my workflow has been production-only and therefore risky. I constantly made big adjustments and overrides to my site which could have broke it--I will try to use Local by Flywheel more to avoid this.
+Production, local development and staging go hand-in-hand in developer operations. Local development is taking a website offline to perform safe testing and changes. Staging is pushing it to a "middle-man" scenario for a client can interact with. I found it easy to wrap my head around the pushing and pulling of web content because it shares similarities with git. However, I now know in hindsight that my workflow has been production-only and therefore risky. I constantly made big adjustments and overrides to my site which could have broke it--I will try to use Local by Flywheel more to avoid this. I also looked into Vagrant virtual machines and VVV which simulate a full OS to locally host a server.
 
 ## Career, Employability & Learning Insights
 

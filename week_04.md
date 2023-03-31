@@ -22,7 +22,7 @@ I learnt the basics of website deployment. I read the lecture slides to understa
 
 ## Content Insights
 
-Production, local development and staging go hand-in-hand in developer operations. Local development is taking a website offline to perform safe testing and changes. Staging is pushing it to a "middle-man" scenario for a client can interact with. I found it easy to wrap my head around the pushing and pulling of web content because it shares similarities with git. However, I now know in hindsight that my workflow has been production-only and therefore risky. I constantly made big adjustments and overrides to my site which could have broke it--I will try to use Local by Flywheel more to avoid this. I also looked into Vagrant virtual machines and VVV which simulate a full OS to locally host a server.
+Production, local development and staging go hand-in-hand in developer operations. Local development is taking a website offline to perform safe testing and changes. Staging is pushing it to a "middle-man" scenario where a client can interact with it. I found it easy to wrap my head around the pushing and pulling of web content because it shares similarities with git. However, I now know in hindsight that my workflow has been production-only and therefore risky. I constantly made big adjustments and overrides to my site which could have broken it--I will try to use Local by Flywheel more to avoid this. I also looked into Vagrant virtual machines and VVV which simulate a full OS to locally host a server.
 
 ## Career, Employability & Learning Insights
 
